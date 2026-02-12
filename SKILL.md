@@ -1,11 +1,9 @@
 ---
 name: escalating-absurdity-build
-description: Build comedy sequences by starting with outrageous premises and escalating
-  to impossible conclusions, with each joke topping the previous. Based on Joan Rivers'
-  escalation technique.
+description: Build comedy sequences by starting with outrageous premises and escalating to impossible conclusions, with each joke topping the previous. Based on Joan Rivers' escalation technique.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
